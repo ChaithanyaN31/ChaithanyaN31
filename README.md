@@ -30,13 +30,6 @@ I enjoy working in **fast-paced startup environments**, contributing to **resear
 
 ---
 
-## 🚀 Project
-**Personal Productivity Dashboard**  
-Java · React.js · PostgreSQL · Firebase  
-- Tracks behavioral metrics and delivers data-driven productivity insights
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
