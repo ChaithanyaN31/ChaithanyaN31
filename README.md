@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Bhuvan K</h1>
-<h3 align="center">Computer Science Engineering Student | Full-Stack Developer | AI Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Chaithanya</h1>
+<h3 align="center">Computer Science Engineering Student | Product & Innovation | Tech + Leadership</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/chaithanya-n-aab2662a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:chaithanyan151@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -17,24 +14,48 @@
 
 ## 🧠 About Me
 
-I’m a **passionate Computer Science Engineering student** and a **State-Level Finalist at the NxtWave Buildathon conducted by OpenAI**, driven by a strong interest in building **intelligent, scalable, and user-centric digital solutions**.
+I am a **Computer Science Engineering student** based in **Bengaluru, India**, with a strong interest in **product innovation, emerging technologies, and real-world problem solving**.
 
-I enjoy transforming **complex problems into simple, effective applications** by combining **clean frontend design**, **robust backend logic**, and **practical AI concepts**.
+I have hands-on experience working in **startup and corporate environments**, where I contribute to **product research, prototyping, and strategic execution**. My strengths lie in **combining technical knowledge with leadership and communication skills** to build impactful solutions.
 
-With hands-on experience in **full-stack web development** and exposure to **AI & machine learning**, I focus on:
-- Writing **efficient, maintainable code**
-- Crafting **intuitive user experiences**
-- Rapidly **prototyping ideas** in collaborative environments
-
-I thrive in **hackathons, real-world projects, and team-driven challenges** where innovation, creativity, and problem-solving come together to deliver meaningful impact.
+I thrive in **fast-paced, collaborative environments**, enjoy **ideathons, buildathons, and innovation challenges**, and continuously work on improving both my **technical depth and professional skills**.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Recognition
 
-- 🥇 **State-Level Finalist** – *NxtWave Buildathon conducted by OpenAI*
-- 🚀 Active participant in **hackathons & innovation challenges**
-- 💡 Built multiple **full-stack & AI-assisted projects**
+- 🏅 **National Finalist** – *OpenAI Academy × NxtWave GenAI Buildathon*  
+  Selected among **50,000+ participants** nationwide for the National Finale
+
+- 🚀 **Top 100 Selected Entrepreneur** – *Reserve Bank Innovation Hub (RBIH) Ideathon*  
+  Recognized for **FinTech innovation and problem-solving**
+
+---
+
+## 💼 Experience
+
+### 🧩 Product Research & Innovation Intern  
+**INERA Software Pvt Ltd** | *Sep 2025 – Nov 2025*  
+- Conducted **market research** and **technical feasibility analysis**
+- Collaborated with engineering teams to **prototype user-centric solutions**
+- Worked on innovation aligned with **emerging technologies**
+
+### 📢 PR Team Head  
+**Tsiar Sports Pvt Ltd (Startup)** | *Oct 2025 – Present*  
+- Leading the **Public Relations team**
+- Managing **brand communication, outreach, and partnerships**
+- Driving **community engagement and user growth**
+- Handling **stakeholder presentations and external communications**
+
+---
+
+## 🚀 Projects
+
+### 📊 Personal Productivity Dashboard  
+**Tech:** Java · React.js · PostgreSQL · Firebase  
+- Built a system to track **behavioral metrics** such as mood and focus
+- Analyzed patterns to identify **peak productivity windows**
+- Focused on **data-driven insights and user experience**
 
 ---
 
@@ -42,62 +63,60 @@ I thrive in **hackathons, real-world projects, and team-driven challenges** wher
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+### Web & Databases
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
 ### Tools & Platforms
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+---
+
+## 🎯 Professional Skills
+
+- Product Research & Market Analysis  
+- PR Strategy & Brand Communication  
+- Team Leadership & Collaboration  
+- Rapid Prototyping & Innovation  
+
+---
+
+## 🎓 Education
+
+**B.E. in Computer Science Engineering**  
+*S. Krishnarajendra Silver Jubilee Technological Institute*  
+📍 Bengaluru, India  
+📈 **CGPA: 8.6** | *2023 – 2027*
+
+**Pre-University:** 93.33%  
+**SSLC:** 94.56%
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
-
----
-
-## 🚀 Currently Learning
-- Advanced **System Design**
-- **AI & LLM integrations**
-- Scalable **Full-Stack Architectures**
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 Open to **Internships & Collaboration**
-- 📩 Reach me via **LinkedIn or Email**
-- 🌱 Always learning, building, and improving
+- 💼 Open to **internships, collaborations, and innovation programs**
+- 🌱 Always learning and exploring new technologies
+- 📩 Reach out via **LinkedIn or Email**
 
----
-
-⭐ *If you like my work, consider starring my repositories!*  
+⭐ *Thanks for visiting my profile!*
