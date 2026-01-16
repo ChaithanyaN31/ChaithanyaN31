@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Chaithanya</h1>
-<h3 align="center">Computer Science Engineering Student | Product & Innovation | Tech + Leadership</h3>
+<h3 align="center">CSE Student | Product & Innovation | Tech + Leadership</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/chaithanya-n-aab2662a5" target="_blank">
+  <a href="https://linkedin.com/in/chaithanya-n-aab2662a5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:chaithanyan151@gmail.com">
@@ -13,49 +13,27 @@
 ---
 
 ## 🧠 About Me
-
-I am a **Computer Science Engineering student** based in **Bengaluru, India**, with a strong interest in **product innovation, emerging technologies, and real-world problem solving**.
-
-I have hands-on experience working in **startup and corporate environments**, where I contribute to **product research, prototyping, and strategic execution**. My strengths lie in **combining technical knowledge with leadership and communication skills** to build impactful solutions.
-
-I thrive in **fast-paced, collaborative environments**, enjoy **ideathons, buildathons, and innovation challenges**, and continuously work on improving both my **technical depth and professional skills**.
+I’m a **Computer Science Engineering student from Bengaluru** with a strong interest in **product innovation, emerging technologies, and leadership**.  
+I enjoy working in **fast-paced startup environments**, contributing to **research, prototyping, and execution**, and participating in **ideathons and buildathons**.
 
 ---
 
-## 🏆 Achievements & Recognition
-
-- 🏅 **National Finalist** – *OpenAI Academy × NxtWave GenAI Buildathon*  
-  Selected among **50,000+ participants** nationwide for the National Finale
-
-- 🚀 **Top 100 Selected Entrepreneur** – *Reserve Bank Innovation Hub (RBIH) Ideathon*  
-  Recognized for **FinTech innovation and problem-solving**
+## 🏆 Highlights
+- 🏅 **National Finalist** – OpenAI Academy × NxtWave GenAI Buildathon  
+- 🚀 **Top 100 Entrepreneur** – RBIH Ideathon (FinTech Innovation)
 
 ---
 
 ## 💼 Experience
-
-### 🧩 Product Research & Innovation Intern  
-**INERA Software Pvt Ltd** | *Sep 2025 – Nov 2025*  
-- Conducted **market research** and **technical feasibility analysis**
-- Collaborated with engineering teams to **prototype user-centric solutions**
-- Worked on innovation aligned with **emerging technologies**
-
-### 📢 PR Team Head  
-**Tsiar Sports Pvt Ltd (Startup)** | *Oct 2025 – Present*  
-- Leading the **Public Relations team**
-- Managing **brand communication, outreach, and partnerships**
-- Driving **community engagement and user growth**
-- Handling **stakeholder presentations and external communications**
+- **Product Research & Innovation Intern** – INERA Software Pvt Ltd  
+- **PR Team Head** – Tsiar Sports Pvt Ltd (Startup)
 
 ---
 
-## 🚀 Projects
-
-### 📊 Personal Productivity Dashboard  
-**Tech:** Java · React.js · PostgreSQL · Firebase  
-- Built a system to track **behavioral metrics** such as mood and focus
-- Analyzed patterns to identify **peak productivity windows**
-- Focused on **data-driven insights and user experience**
+## 🚀 Project
+**Personal Productivity Dashboard**  
+Java · React.js · PostgreSQL · Firebase  
+- Tracks behavioral metrics and delivers data-driven productivity insights
 
 ---
 
@@ -80,31 +58,11 @@ I thrive in **fast-paced, collaborative environments**, enjoy **ideathons, build
 
 ---
 
-## 🎯 Professional Skills
-
-- Product Research & Market Analysis  
-- PR Strategy & Brand Communication  
-- Team Leadership & Collaboration  
-- Rapid Prototyping & Innovation  
-
----
-
 ## 🎓 Education
-
-**B.E. in Computer Science Engineering**  
-*S. Krishnarajendra Silver Jubilee Technological Institute*  
-📍 Bengaluru, India  
-📈 **CGPA: 8.6** | *2023 – 2027*
-
-**Pre-University:** 93.33%  
-**SSLC:** 94.56%
+**B.E. Computer Science Engineering**  
+S. Krishnarajendra Silver Jubilee Technological Institute  
+CGPA: **8.6** | 2023–2027
 
 ---
 
-## 🤝 Let’s Connect
-
-- 💼 Open to **internships, collaborations, and innovation programs**
-- 🌱 Always learning and exploring new technologies
-- 📩 Reach out via **LinkedIn or Email**
-
-⭐ *Thanks for visiting my profile!*
+⭐ *Open to internships, collaborations, and innovation programs*
