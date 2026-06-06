@@ -21,6 +21,7 @@ I enjoy working in **fast-paced startup environments**, contributing to **resear
 ## 🏆 Highlights
 - 🏅 **National Finalist** – OpenAI Academy × NxtWave GenAI Buildathon  
 - 🚀 **Top 100 Entrepreneur** – RBIH Ideathon (FinTech Innovation)
+- ** First place Winner In Katalyst India Organised , "Mini Engineering Project " Sponsered by SalesForce 
 
 ---
 
@@ -40,7 +41,7 @@ I enjoy working in **fast-paced startup environments**, contributing to **resear
 ### Web & Databases
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
 ### Tools & Platforms
